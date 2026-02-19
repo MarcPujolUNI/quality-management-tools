@@ -41,12 +41,10 @@ Technologies used:
 ## Structure
 Main structure:
 
-quality-management-tools/
-│
-├── src/
-├── docs/
-├── data/
-└── README.md
+- src/ # Main code location
+- docs/ # Documentation about the project
+- data/ # Datasets location
+- README.md
 
 ---
 
